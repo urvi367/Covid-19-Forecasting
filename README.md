@@ -1,1 +1,1 @@
-# Covid---19-Forecasting
+# Covid-19-Forecasting
